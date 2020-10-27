@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PL898RW');</script>
+    <!-- End Google Tag Manager -->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <style>.async-hide { opacity: 0 !important} </style>
+    <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+                h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+                (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+            })(window,document.documentElement,'async-hide','dataLayer',4000,
+     {'GTM-PL898RW':true});</script>
+
+    <base href='https://gifted.co' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="fb:app_id" content="0" />
+    <title>Gifted | Your Free Powerful Employee & Client Gifting Platform</title>
+    <link rel="canonical" href="https://gifted.co/business">
+    <meta name="title" content="Gifted | Your Free Powerful Employee & Client Gifting Platform"/>
+    <meta name="description" content="Employee Gifting Done Right - Gifted has turned the overwhelming challenge of showing appreciation into a free SaaS-based recognition and rewards platform that consolidates all of a company's gifting needs into one easy-to-use, yet comprehensive dashboard."/>
+    <meta name="keywords" content="employee gifting, employee engagement, employee recognition, gifts for employees, corporate gifts, employee retention"/>
+    <meta name="og:title" content="Gifted | Your Free Powerful Employee & Client Gifting Platform"/>
+    <meta name="og:description" content="Employee Gifting Done Right - Gifted has turned the overwhelming challenge of showing appreciation into a free SaaS-based recognition and rewards platform that consolidates all of a company's gifting needs into one easy-to-use, yet comprehensive dashboard."/>
+    <meta name="og:image" content="https://gifted.co/files/business-site/businessSiteSeoImage.jpg"/>
+    <meta name="og:url" content="https://gifted.co/business">
+
+    <script data-preserve="true" type="text/javascript">
+      var LOCAL  = 'en';
+      var BASEURL ='https://gifted.co';
+    </script>
+
+    <link rel="icon" type="image/png" sizes="16x16" href="business-site/favicon-gifted.ico">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+            integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href= "business-site/assets/vendor.css?v20.10.26"  rel="stylesheet">
+    <link href= "business-site/assets/business-site.css?v20.10.26"  rel="stylesheet">
+
+
+
+
+    <!-- Google Analytics -->
+
+     <!-- If we don't want to measure, set an empty string as value for the analytics key  -->
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71266486-3"></script>
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-71266486-3');
+          
+          // add the sign-up conversion tag if it is set
+                    var signUpConversionTag = "AW-881289494";
+            gtag('config', signUpConversionTag);
+                </script>
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-71266486-3', 'auto');
+          ga('require', 'GTM-PL898RW');
+          ga('send', 'pageview');
+          var sourceUtm = "";
+          var mediumUtm = "";
+          var campaignUtm = "";
+        </script>
+
+            <!-- End Google Analytics -->
+
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71266486-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-71266486-3');
+            gtag('config', 'AW-881289494');
+        </script>
+        <!-- End Google Analytics -->
+
+        <!-- Driftt -->
+        <script>
+            "use strict";
+
+            !function() {
+            var t = window.driftt = window.drift = window.driftt || [];
+            if (!t.init) {
+                if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+                t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+                t.factory = function(e) {
+                return function() {
+                    var n = Array.prototype.slice.call(arguments);
+                    return n.unshift(e), t.push(n), t;
+                };
+                }, t.methods.forEach(function(e) {
+                t[e] = t.factory(e);
+                }), t.load = function(t) {
+                var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+                var i = document.getElementsByTagName("script")[0];
+                i.parentNode.insertBefore(o, i);
+                };
+            }
+            }();
+            drift.SNIPPET_VERSION = '0.3.1';
+            drift.load('zhg4zek3892t');
+        </script>
+    <!-- End Driftt -->
+    
+        
+</head>
+
+<body class="ltr">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL898RW"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- BODY START -->
+<div id="prerendered">
+    
+ <div id="ember234" class="ember-view"> <div class="ltr"> <div id="ember270" class="ember-view"></div> <div id="ember273" class="ses-header ember-view"><div class="shadow-box"> <div class="wrapper rtl"> <div class="links"> <div class="menu"> <nav class="navbar navbar-expand-lg navbar-light bg-white"> <button id="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"> <span class="navbar-toggler-line"></span> <span class="navbar-toggler-line"></span> <span class="navbar-toggler-line"></span> </button> <div id="navbarCollapse" class="collapse navbar-collapse ltr d-none d-lg-block"> <ul class="navbar-nav d-none d-lg-flex"> <li class="nav-item dropdown mr-auto"> <a href="#" id="117" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link"> Features </a> <div aria-labelledby="117" class="dropdown-menu"> <span class="triangle"></span> <a href="https://gifted.co/free-gifting-dashboard" class="dropdown-item">Gifting Dashboard</a> <a href="https://gifted.co/customized-gifts-for-employees" class="dropdown-item">Customize Your Gifting</a> <a href="https://gifted.co/gifting-reporting" class="dropdown-item">Reports</a> <a href="https://gifted.co/automated-gifts-for-employees" class="dropdown-item">Automated Gifting</a> <a href="https://gifted.co/gifting-activities" class="dropdown-item">Gifting Activities</a> <a href="https://gifted.co/gifting-platform-user-management" class="dropdown-item">Users</a> </div> </li> <li class="nav-item dropdown mr-auto"> <a href="https://gifted.co/free-gifting-platform-pricing" class="nav-link"> Pricing </a> </li> <li class="nav-item dropdown mr-auto"> <a href="https://gifted.co/the-gifting-experience" class="nav-link"> Gifting Experience </a> </li> <li class="nav-item dropdown mr-auto"> <a href="https://blog.gifted.co" class="nav-link"> Blog </a> </li> <li class="nav-item nav-item--login mr-auto"> <a href="/?modal=login" class="nav-link login" data-ember-action="" data-ember-action-284="284"> Log In </a> </li> <li class="nav-item nav-item--sign-up"> <a href="/?modal=login" class="nav-link sign-up" data-ember-action="" data-ember-action-285="285"> Sign Up (Free) </a> </li> </ul> </div> </nav> </div> </div> <div class="logo"> <a href="https://gifted.co?utm_source=buyme_site_business&amp;utm_medium=referral" alt="https://gifted.co" title="https://gifted.co"> <img src="/files/business-site/businessSiteHeaderLogo.png" id="ember294" class="ember-view"> </a> </div> </div>
+</div> <nav class="navbar navbar-expand-lg navbar-light bg-white d-lg-none"> <div id="navbarCollapse" class="collapse navbar-collapse ltr"> <div class="drilldown-nav-menu d-lg-none"> <div id="stack-menu"> <ul> <li class="stack-menu__item"> <a href="#" class="stack-menu__link">Features</a> <ul class="stack-menu__list"> <li class="stack-menu__item"><a href="https://gifted.co/free-gifting-dashboard" class="stack-menu__link">Gifting Dashboard</a></li> <li class="stack-menu__item"><a href="https://gifted.co/customized-gifts-for-employees" class="stack-menu__link">Customize Your Gifting</a></li> <li class="stack-menu__item"><a href="https://gifted.co/gifting-reporting" class="stack-menu__link">Reports</a></li> <li class="stack-menu__item"><a href="https://gifted.co/automated-gifts-for-employees" class="stack-menu__link">Automated Gifting</a></li> <li class="stack-menu__item"><a href="https://gifted.co/gifting-activities" class="stack-menu__link">Gifting Activities</a></li> <li class="stack-menu__item"><a href="https://gifted.co/gifting-platform-user-management" class="stack-menu__link">Users</a></li> </ul> </li> <li class="stack-menu__item"> <a href="https://gifted.co/free-gifting-platform-pricing" class="stack-menu__link">Pricing</a> </li> <li class="stack-menu__item"> <a href="https://gifted.co/the-gifting-experience" class="stack-menu__link">Gifting Experience</a> </li> <li class="stack-menu__item"> <a href="https://blog.gifted.co" class="stack-menu__link">Blog</a> </li> </ul> </div> <ul class="navbar-nav d-flex flex-column align-items-center"> <li> <a href="#" class="nav-link login mx-0" data-ember-action="" data-ember-action-295="295"> Log In </a> </li> <li> <a href="#" class="nav-link sign-up mt-3 mx-0" data-ember-action="" data-ember-action-296="296"> Sign Up (Free) </a> </li> </ul> </div> </div>
+</nav> </div> <div class="home-page c-default header-offset"> <div class="main-banner c-light"> <div class="wrapper"> <div class="main-banner__row light"> <div class="main-banner__col main-banner__col--text"> <h1 class="main-banner__title section-title" style="color: rgb(79, 88, 106);">Your Powerful <br> Gifting Platform</h1> <p class="main-banner__subtitle section-subtitle" style="color: rgb(79, 88, 106);">Take the guess work out of<br>employee and client gifting</p> <p class="main-banner__text" style="color: rgb(79, 88, 106);">Completely Free. Setup in Minutes. Be Your Office Hero.</p> <div class="main-banner__buttons-wrap"> <button id="ember299" class="ses-button--content ses-button--saturated ses-button btn ember-view">Start Gifting
+</button> <p class="text-highlighted">( It’s Free! )</p> <button type="button" class="button-play-video" data-ember-action="" data-ember-action-300="300" style="border-color: rgb(79, 88, 106); color: rgb(79, 88, 106);"> Play Video<br>Simply Appreciate </button> </div> </div> <div class="main-banner__col main-banner__col--media"> <div class="main-banner__media-preview" data-ember-action="" data-ember-action-301="301"> <img src="/files/business-site/businessSiteTopBannerVideoPreviewImage.jpg" id="ember302" class="media-preview-image ember-view"> </div> </div> </div> </div> </div> <div id="ember305" class="companies section ember-view"> <div class="wrapper"> <div class="companies-logos-list-wrap"> <ul class="companies-logos-list"> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo8.jpg?5e23db09b1acd" id="ember307" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo2.jpg?5e23db100a14d" id="ember309" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo3.jpg?5e23db1771996" id="ember311" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo4.jpg?5e23db2b2207f" id="ember313" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo5.jpg?5e23db31cba46" id="ember315" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo16.jpg?5e23db40641d2" id="ember317" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo14.jpg?5e23db46c3016" id="ember319" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo7.jpg?5e23db56607f7" id="ember321" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo10.jpg?5e23db673fbf6" id="ember323" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo11.jpg?5e23db6f4f2e1" id="ember325" class="ember-view"> </li> <li class="companies-logos-item"> <img src="/files/business-site/our-customers/logos/businessSiteOurCustomersLogo20.jpg" id="ember327" class="ember-view"> </li> </ul> </div> </div>
+</div>
+<div id="ember328" class="relative section ember-view"> <div class="wrapper"> <h2 class="section-title center"> Your Appreciation Management Dashboard </h2> </div> <div class="wrapper"> <ul id="ember333" class="activity-bullets ember-view"> <li class="activity-bullets__item"> <div class="activity-bullets__col activity-bullets__col--text"> <div class="activity-bullets__text"> <h2 class="section-title">Your Consolidated Recognition Dashboard</h2> <p class="section-subtitle">Automated &amp; timed gifting, reports, budget management, user permissions, and much more</p> </div> </div> <div class="activity-bullets__col activity-bullets__col--image"> <div class="activity-bullets__image"> <img src="/files/business-site/content/businessSiteContentImage1599781831644.jpg?5f5ac5bacbfb4" id="ember335" class="activity-bullets__img ember-view"> </div> </div> </li> <li class="activity-bullets__item"> <div class="activity-bullets__col activity-bullets__col--text"> <div class="activity-bullets__text"> <h2 class="section-title">A gift for every occasion</h2> <p class="section-subtitle">We've got you covered for all those planned, as well as unexpected gifts</p> </div> </div> <div class="activity-bullets__col activity-bullets__col--image"> <div class="activity-bullets__image"> <img src="/files/business-site/content/businessSiteContentImage2.jpg?5f5a629a6c3e0" id="ember337" class="activity-bullets__img ember-view"> </div> </div> </li> <li class="activity-bullets__item"> <div class="activity-bullets__col activity-bullets__col--text"> <div class="activity-bullets__text"> <h2 class="section-title">Send and track gifts</h2> <p class="section-subtitle">See what gifts people are selecting and loving, and resend misplaced gifts</p> </div> </div> <div class="activity-bullets__col activity-bullets__col--image"> <div class="activity-bullets__image"> <img src="/files/business-site/content/businessSiteContentImage3.jpg?5f5a6403b4239" id="ember339" class="activity-bullets__img ember-view"> </div> </div> </li> </ul> <div class="activity-bullets-btn-wrap"> <button id="ember340" class="ses-button--content ses-button btn ember-view">Take Me There
+</button> </div> </div>
+</div>
+<div id="ember341" class="companies slider-videos section ember-view"> <div class="wrapper full"> <hr class="dashed-line"> <div id="ember350" class="ses-slider activity-media sm under-three-items ember-view"><div alt="הקודם" title="הקודם" class="slider-nav prev disabled" data-ember-action="" data-ember-action-351="351"> <img src="/business-site/assets/images/slider_nav_arrow.svg" id="ember352" class="ember-view">
+</div> <div class="slider"> <div title="The Marshaller" alt="The Marshaller" id="ember358" class="ses-slider-item width-indicator activity-media-item is-video ember-view"> <img src="/business-site/assets/images/play_button.svg" id="ember359" class="play-btn ember-view">
+<img src="/files/business-site/videos/businessSiteVideoImage1.jpg?5f5b8fa1e1cd3" id="ember360" class="image ember-view"></div> <div title="The Service Rep" alt="The Service Rep" id="ember362" class="ses-slider-item width-indicator activity-media-item is-video ember-view"> <img src="/business-site/assets/images/play_button.svg" id="ember363" class="play-btn ember-view">
+<img src="/files/business-site/videos/businessSiteVideoImage2.jpg?5f5b8fa1e1cf6" id="ember364" class="image ember-view"></div> <div title="The Teacher" alt="The Teacher" id="ember366" class="ses-slider-item width-indicator activity-media-item is-video ember-view"> <img src="/business-site/assets/images/play_button.svg" id="ember367" class="play-btn ember-view">
+<img src="/files/business-site/videos/businessSiteVideoImage3.jpg?5f5b8fa1e1d05" id="ember368" class="image ember-view"></div>
+</div> <div alt="הבא" title="הבא" class="slider-nav next " data-ember-action="" data-ember-action-369="369"> <img src="/business-site/assets/images/slider_nav_arrow.svg" id="ember370" class="ember-view">
+</div></div> <hr class="dashed-line"> </div>
+</div>
+<div id="ember371" class="gifting-programs section ember-view"> <div class="wrapper"> <h2 class="section-title center"> Select Your Gifting Programs </h2> </div> <div class="wrapper"> <h3 class="activities-title f-lr bold"> Work From Home </h3> <ul class="activities"> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-374="374"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage77.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">WFH - Combination</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-376="376"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage79.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">WFH - Food Delivery</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-378="378"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage75.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">WFH - Home Office</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-380="380"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage76.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">WFH - Hiking &amp; Workouts </div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> </ul> <h3 class="activities-title f-lr bold"> Recurring Gifts </h3> <ul class="activities"> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-383="383"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage1.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Employee Birthdays</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-385="385"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage12.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Work Anniversaries</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> </ul> <h3 class="activities-title f-lr bold"> Ad Hoc Gifts </h3> <ul class="activities"> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-388="388"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage14.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Sales Incentives</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-390="390"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage13.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Spot Bonuses</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-392="392"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage4.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Thank Yous</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-394="394"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage9.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Employee Referrals</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-396="396"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage10.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">New Hires</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-398="398"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage15.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Employee Prizes</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-400="400"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage31.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Feel Better</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-402="402"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage6.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Birth Gifts</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-404="404"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage23.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Weddings</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-406="406"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage38.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">New Home</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-408="408"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage57.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Graduation</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> </ul> <h3 class="activities-title f-lr bold"> Holidays </h3> <ul class="activities"> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-411="411"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage2.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Holiday Gifting</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-413="413"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage44.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Halloween</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-415="415"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage5.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Valentine's Day</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> </ul> <h3 class="activities-title f-lr bold"> Client Gifting </h3> <ul class="activities"> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-418="418"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage11.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Client Gifts</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-420="420"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage103.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Vendor Appreciation</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> <li class="activity"> <div class="content" data-ember-action="" data-ember-action-422="422"> <div class="icon"> <img src="https://gifted.co/files/hr/activities/names/activityNameImage72.jpg?5f96d808a06ee"> </div> <div class="text"> <div class="f-sm bold">Customer Referrals</div> <u class="f-xs c-gray">More Details</u> </div> </div> </li> </ul> </div>
+</div></div> <div id="ember425" class="ses-footer ember-view"><div style="background-image: url('files/business-site/businessSiteFooterBannerDesktopImage.jpg')" class="bg-dark c-light footer-top"> <div class="wrapper"> <h2 class="section-title c-light"> Create Your Appreciation<br>Program Today </h2> <span class="btn ses-button ses-button--content ses-button--saturated" data-ember-action="" data-ember-action-426="426"> Start Gifting </span> <p class="text-highlighted"> <b>( It’s Free! )</b> </p> </div>
+</div> <div class="bg-gray footer-bottom"> <div class="wrapper"> <div class="socials"> <a href="https://vimeo.com/giftedteams" target="_blank" title="youtube"> <img alt="youtube" src="/business-site/assets/images/icons/youtube.svg" id="ember428" class="ember-view"> </a> <a href="https://www.facebook.com/GiftedSimplyAppreciate/" target="_blank" title="facebook"> <img alt="facebook" src="/business-site/assets/images/icons/facebook.svg" id="ember430" class="ember-view"> </a> <a href="https://www.facebook.com/GiftedSimplyAppreciate/" target="_blank" title="linkedin"> <img alt="linkedin" src="/business-site/assets/images/icons/linkedin.svg" id="ember432" class="ember-view"> </a> </div> <div class="details f-sm lang-dir-reverse"> <a href="mailto:sales@gifted.co" class="mail">sales@gifted.co</a> <a href="https://app.gifted.co?utm_source=buyme_site_business&amp;utm_medium=referral" target="_blank" class="site">www.gifted.co</a> <a href="tel:+1-646-568-7686" class="tel ltr">+1-646-568-7686</a> <a class="copyrights ltr">© Gifted 2020</a> <a class="help-center" data-ember-action="" data-ember-action-433="433"> Customer Support </a> </div> </div>
+</div></div> </div>
+
+
+    <div id="app-loading">
+        <div id="app-loading-img">
+            <img src="images/giftedd_logo.png" />
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+
+        <style type="text/css">
+            #app-loading {
+                position: fixed;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                width: 100%;
+                height: 100%;
+                            background-color:  #fff;
+            
+z-index: 1000;
+            }
+
+            #app-loading-img img{
+                height: 130px;
+                margin-bottom: 25px;
+            }
+            #app-loading-img {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                -webkit-transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+            }
+
+            .spinner {
+                margin: 0 auto 20px;
+                text-align: center;
+                width: 70px;
+            }
+
+            .spinner > div {
+                width: 18px;
+                height: 18px;
+                background-color: #fc354c;
+
+                border-radius: 100%;
+                display: inline-block;
+                -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+                animation: bouncedelay 1.4s infinite ease-in-out;
+                /* Prevent first frame from flickering when animation starts */
+                -webkit-animation-fill-mode: both;
+                animation-fill-mode: both;
+            }
+
+            .spinner .bounce1 {
+                -webkit-animation-delay: -0.32s;
+                animation-delay: -0.32s;
+            }
+
+            .spinner .bounce2 {
+                -webkit-animation-delay: -0.16s;
+                animation-delay: -0.16s;
+            }
+
+            @-webkit-keyframes bouncedelay {
+                0%, 80%, 100% { -webkit-transform: scale(0.0) }
+                40% { -webkit-transform: scale(1.0) }
+            }
+
+            @keyframes  bouncedelay {
+                0%, 80%, 100% {
+                    transform: scale(0.0);
+                    -webkit-transform: scale(0.0);
+                } 40% {
+                      transform: scale(1.0);
+                      -webkit-transform: scale(1.0);
+                  }
+            }
+        </style>
+    </div>
+</div>
+<!-- BODY END -->
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0vBWJdETDnX8hTndbiv1wDa2-0oAIS_M&language=en" async defer></script>
+
+<script src="business-site/assets/vendor.js?v20.10.26"></script>
+<script src="business-site/assets/business-site.js?v20.10.26"  ></script>
+<script src="business-site/assets/js/jquery-stack-menu.js?v20.10.26"></script>
+
+
+</body>
+
+</html>

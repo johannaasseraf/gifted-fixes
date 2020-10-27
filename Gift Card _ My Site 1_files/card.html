@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- saved from url=(1061)https://gifted.co/wix/card?instance=Z8rhK7ddTCoZ6kOKZaX5qWuzorMUYyFKGw02cbMuM_o.eyJpbnN0YW5jZUlkIjoiYTI1NTg2YWYtNmViYi00ZDI4LWIzZDEtMDY5YTZmZjVmZGIwIiwiYXBwRGVmSWQiOiJkYWEwZWMwOS03NTk1LTQ0MWItYjNlYS1kMjc1YWMyN2IzNmYiLCJzaWduRGF0ZSI6IjIwMjAtMTAtMjZUMTU6MDM6MTkuMzA1WiIsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiMTIyYWNhZGItZDIxNS00YWI4LWI0YzgtNzc5ZGEzZmJmNDZmIiwic2l0ZU93bmVySWQiOiJlYmQ5NTU2My1hMGQ0LTQwNTQtYjFjMi02NjZlMjNhYTMxMGMifQ&pageId=azqxb&compId=TPASection_kgp1h644&viewerCompId=TPASection_kgp1h644&siteRevision=6&viewMode=site&deviceType=desktop&locale=en&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%22e10ee2d7-1a8c-40bb-b694-832456c783b1%7C1%22%2C%22consentPolicy%22%3A%7B%22essential%22%3Atrue%2C%22functional%22%3Atrue%2C%22analytics%22%3Atrue%2C%22advertising%22%3Atrue%2C%22dataToThirdParty%22%3Atrue%7D%2C%22consentPolicyHeader%22%3A%7B%7D%7D&tz=Asia%2FJerusalem&vsi=feb15e3a-270a-4244-be43-7b1cd8a112b3&currency=USD&currentCurrency=USD&width=980&height=1000&section-url=https%3A%2F%2Fjohannaa13.wixsite.com%2Fmy-site-1%2Fgift-card%2F&target=_top -->
+<html lang="en" style="border: none; width:98%; height:95%"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="./jquery.min.js"></script>
+        <script type="text/javascript" src="./wix.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                Wix.Settings.resizeComponent({
+                    height: 1000
+                });
+                let instanceId = Wix.Utils.getInstanceId();
+                $.ajax({
+                    url: '/wix/getAffUrl',
+                    type: 'POST',
+                    data: {'instanceId': instanceId},
+                }).done(function (response) {
+                    $('#card-iframe').prop('src', response.url);
+                }).fail(function (response) {
+                    businessCodeError(response.responseJSON.error);
+                });
+            });
+        </script>
+    <style wix-style="">.Title{ font:normal normal normal 62px/1.4em poppins-semibold,poppins,sans-serif; } .Menu{ font:normal normal normal 16px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } .Page-title{ font:normal normal normal 44px/1.4em poppins-semibold,poppins,sans-serif; } .Heading-XL{ font:normal normal normal 30px/1.4em poppins-semibold,poppins,sans-serif; } .Heading-L{ font:normal normal normal 25px/1.4em poppins-semibold,poppins,sans-serif; } .Heading-M{ font:normal normal normal 20px/1.4em poppins-semibold,poppins,sans-serif; } .Heading-S{ font:normal normal normal 18px/1.4em poppins-semibold,poppins,sans-serif; } .Body-L{ font:normal normal bold 19px/1.4em poppins-extralight,poppins,sans-serif; } .Body-M{ font:normal normal normal 15px/1.4em poppins-extralight,poppins,sans-serif; } .Body-S{ font:normal normal normal 13px/1.4em poppins-extralight,poppins,sans-serif; } .Body-XS{ font:normal normal normal 12px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif; } }</style><link type="text/css" rel="stylesheet" href="./languages.css"><style>:focus {
+    outline: none;
+}
+
+.js-focus-visible .focus-visible:focus,
+.js-focus-visible .focus-visible:focus ~ .wixSdkShowFocusOnSibling
+{
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.9), 0 0 1px 2px #3899EC;
+}
+</style><script src="./focus-visible.min.js" id="dynamic_script_FOCUS_VISIBLE"></script></head>
+    <body style="border: none; width:100%; min-height:1000px" class="js-focus-visible">
+        <iframe id="card-iframe" src="./order.html" style="border: none; width:100%; min-height:1000px">
+            Yor browser not support iframe!
+        </iframe>
+    
+</body></html>
